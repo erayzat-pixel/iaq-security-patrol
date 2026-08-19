@@ -246,3 +246,11 @@ Please do not publish exploitable vulnerabilities in a public issue. See SECURIT
 
 License
 IAQ Security Patrol is licensed under the GNU General Public License v2.0 or later. See LICENSE.
+
+## Project Origin
+
+IAQ Security Patrol was developed as part of the experimental infrastructure behind **IAQ: Infrequently Asked Questions**, a question-driven publishing and research project that observes how humans, search engines, crawlers, and AI systems interact with web content.
+
+The plugin emerged from the need to distinguish human visits, automated crawlers, suspicious traffic, and other machine activity at the application level.
+
+**Project:** [IAQ: Infrequently Asked Questions](https://traveliaq.com/)
