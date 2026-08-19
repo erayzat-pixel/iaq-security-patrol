@@ -1,0 +1,34 @@
+# Operating systems / editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Local secrets / environment
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Runtime / logs / databases
+*.log
+*.sql
+*.sqlite
+*.sqlite3
+
+# Archives and build output
+*.zip
+*.tar
+*.tar.gz
+/dist/
+/build/
+
+# Dependencies if introduced locally
+/vendor/
+/node_modules/
+
+# WordPress development artifacts
+.phpunit.result.cache
